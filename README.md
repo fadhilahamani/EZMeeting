@@ -18,11 +18,7 @@ This how **EZMeetings** was born, because we understand that it is not easy to f
 A recommendation system that help people to find a meeting room based on their location, the facilities, and price.
 
 ## Deployment :rocket:
-The app was deployed through Streamlit Share.
-
-You can access it through this [link]().
-
-We do hope you enjoyed our app.
+The app was deployed through Streamlit.
 
 Feedbacks and questions are welcome, please do not hesitate to reach out to us.
 
