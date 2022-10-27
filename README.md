@@ -17,11 +17,6 @@ This how **EZMeetings** was born, because we understand that it is not easy to f
 ## About EZMeetings :calendar:
 A recommendation system that help people to find a meeting room based on their location, the facilities, and price.
 
-## Deployment :rocket:
-The app was deployed through Streamlit.
-
-Feedbacks and questions are welcome, please do not hesitate to reach out to us.
-
 ## Contributors :bulb:
 
 FTDS-015-RMT-GROUP-004
@@ -31,6 +26,8 @@ Didit Eko Setyo [Github](https://github.com/diditeko) [LinkedIn](https://www.lin
 Fadhilah Amani A. A. [Github](https://github.com/fadhilahamani) [LinkedIn](https://www.linkedin.com/in/fadhilah-amani-alam-aulia-236176170/)
 
 Prajna P. T. [Github](https://github.com/prawrjna) [LinkedIn](https://www.linkedin.com/in/prajna-paramita-taslim/)
+
+Feedbacks and questions are welcome, please do not hesitate to reach out to us.
 
 ## Special Thanks :star2:
 Our project could not be completed without the help from our one and only Mr. Danu Purnomo [Github](https://github.com/danupurnomo)
